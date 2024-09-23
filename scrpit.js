@@ -29,7 +29,7 @@ function findStudent() {
         const MarksheetBox = document.getElementById('Marksheet_Box');
         document.getElementById('buttonpdf').style.display = 'block';
         MarksheetBox.innerHTML = ` <div id="page1-div" style="position:relative;width:918px;height:1188px;">
-            <img width: 100%; height: auto; src="https://vikaslokhande2004.github.io/marksheetDownloader/Sem2.png" alt="background image" />
+            <img width: 100%; height: auto; src="https://github.com/MrX2703/Marksheet_downloader/blob/main/Sem2.png" alt="background image" />
             <p style="position:absolute;top:61px;left:298px;white-space:nowrap" class="ft00">
                 Summer&#160;Semester&#160;Examinations&#160;2024&#160;Result</p>
             <p style="position:absolute;top:61px;left:663px;white-space:nowrap" class="ft01">&#160;</p>
