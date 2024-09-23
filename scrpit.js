@@ -31,7 +31,7 @@ function findStudent() {
         MarksheetBox.innerHTML = ` <div id="page1-div" style="position:relative;width:918px;height:1188px;">
             <img width: 100%; height: auto; src="https://vikaslokhande2004.github.io/marksheetDownloader/Sem2.png" alt="background image" />
             <p style="position:absolute;top:61px;left:298px;white-space:nowrap" class="ft00">
-                Summer&#160;Semester&#160;Examinations&#160;2023&#160;Result</p>
+                Summer&#160;Semester&#160;Examinations&#160;2024&#160;Result</p>
             <p style="position:absolute;top:61px;left:663px;white-space:nowrap" class="ft01">&#160;</p>
             <p style="position:absolute;top:86px;left:78px;white-space:nowrap" class="ft02">&#160;</p>
             <p style="position:absolute;top:106px;left:215px;white-space:nowrap" class="ft03">
